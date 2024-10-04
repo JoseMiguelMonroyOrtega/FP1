@@ -20,4 +20,5 @@
   ***NEGRITAS ITALICA***
 
   ![DESCRIPCION DE IMAGEN](https://pbs.twimg.com/media/GY7NcNDXgAAynRZ?format=jpg&name=small)
+  }
   
